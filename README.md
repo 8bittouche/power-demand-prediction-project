@@ -1,1 +1,1 @@
-![Alt text](/ppt/poster.JPG)
+![Alt text](/poster.JPG)
